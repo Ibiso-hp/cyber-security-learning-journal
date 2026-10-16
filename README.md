@@ -16,6 +16,7 @@ My goal is to develop strong foundations in Linux, networking, Python, and cyber
 I focus on learning concepts, practising them in authorized environments, documenting my results, and reflecting on what I understand and need to improve.
 
 ## 🧪 Practical Exercises
+[Day 1: Introduction to Linux and the Terminal](linux-fundamentals/day-01-linux-terminal.md)
 
 ### Linux Fundamentals
 
